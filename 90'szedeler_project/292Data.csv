@@ -1,0 +1,700 @@
+China;62,387;38,68; 0.62;Accountant
+Saudi Arabia;55,379;41,534; 0.75;Accountant
+Switzerland;47,001;88,362; 1.88;Accountant
+France;45,328;51,674; 1.14;Accountant
+Japan;42,323;55,443; 1.31;Accountant
+Brazil;39,145;25,444; 0.65;Accountant
+Thailand;39,143;29,749; 0.76;Accountant
+Spain;38,168;32,061; 0.84;Accountant
+Belgium;37,916;42,466; 1.12;Accountant
+USA;37,327;40,686; 1.09;Accountant
+Portugal;36,804;28,707; 0.78;Accountant
+UK;36,561;36,561; 1.00;Accountant
+Australia;34,567;38,715; 1.12;Accountant
+Germany;33,879;34,557; 1.02;Accountant
+Greece;33,32;28,988; 0.87;Accountant
+South Korea;32,066;36,876; 1.15;Accountant
+Canada;29,547;30,729; 1.04;Accountant
+Ireland;29,287;34,266; 1.17;Accountant
+South Africa;29,282;19,619; 0.67;Accountant
+Netherlands;28,451;32,719; 1.15;Accountant
+Italy;26,419;28,004; 1.06;Accountant
+Russia;25,585;15,095; 0.59;Accountant
+Norway;24,559;39,295;  1.60;Accountant
+New Zealand;24,246;27,155; 1.12;Accountant
+Poland;24,01;14,406; 0.60;Accountant
+USA;36,528;39,816; 1.09;Bricklayer
+Canada;36,144;37,59; 1.04 ;Bricklayer
+China;33,416;20,718; 0.62;Bricklayer
+Japan;30,682;40,193; 1.31;Bricklayer
+Ireland;30,1;35,217; 1.17;Bricklayer
+UK;28,972;28,972; 1.00;Bricklayer
+Australia;27,713;31,038; 1.12;Bricklayer
+Saudi Arabia;27,243;20,432; 0.75;Bricklayer
+Switzerland;24,995;46,991; 1.88;Bricklayer
+France;23,337;26,604; 1.14;Bricklayer
+New Zealand;22,434;25,126; 1.12;Bricklayer
+Germany;22,378;22,826; 1.02;Bricklayer
+Spain;21,677;18,209; 0.84;Bricklayer
+Brazil;21,642;14,067; 0.65;Bricklayer
+Netherlands;21,37;24,575; 1.15;Bricklayer
+Thailand;21,026;15,98; 0.76;Bricklayer
+Russia;20,114;11,867; 0.59;Bricklayer
+Belgium;19,793;22,168; 1.12  ;Bricklayer
+Poland;19,048;11,429; 0.60;Bricklayer
+Portugal;18,949;14,78; 0.78;Bricklayer
+Italy;18,614;19,731; 1.06;Bricklayer
+Greece;17,492;15,218; 0.87;Bricklayer
+Norway;17,376;27,802; 1.60;Bricklayer
+South Korea;16,481;18,953; 1.15;Bricklayer
+South Africa;16,249;10,887; 0.67;Bricklayer
+China;44,489;27,583; 0.62;Builder
+USA;43,94;47,895; 1.09;Builder
+Saudi Arabia;40,583;30,437; 0.75;Builder
+Russia;39,642;23,389; 0.59;Builder
+Australia;38,011;42,572; 1.12;Builder
+Switzerland;34,443;64,753; 1.88;Builder
+France;33,218;37,868; 1.14;Builder
+Japan;32,74;42,89; 1.31;Builder
+New Zealand;30,726;34,413; 1.12;Builder
+Brazil;28,686;18,646; 0.65;Builder
+Thailand;28,686;21,801; 0.76;Builder
+Canada;28,238;29,367; 1.04;Builder
+Spain;27,97;23,495; 0.84;Builder
+Belgium;27,785;31,119; 1.12;Builder
+Portugal;26,972;21,038; 0.78;Builder
+Germany;26,911;27,449; 1.02;Builder
+Italy;25,913;27,468; 1.06;Builder
+Norway;25,875;41,4; 1.60;Builder
+UK;24,938;24,938; 1.00;Builder
+Netherlands;24,82;28,543; 1.15;Builder
+Greece;24,417;21,243; 0.87;Builder
+Poland;22,06;13,236; 0.60;Builder
+Ireland;21,988;25,726; 1.17;Builder
+South Africa;21,458;14,377; 0.67;Builder
+South Korea;18,245;20,982; 1.15;Builder
+Saudi Arabia;132,78;99,585; 0.75;Dentist
+Switzerland;117;219,96; 1.88;Dentist
+Spain;98,801;82,993; 0.84;Dentist
+Netherlands;96,314;110,761; 1.15;Dentist
+USA;95,391;103,976; 1.09;Dentist
+Russia;94,922;56,004; 0.59;Dentist
+Brazil;93,526;60,792; 0.65;Dentist
+Belgium;89,921;100,712; 1.12;Dentist
+Portugal;89,015;69,432; 0.78;Dentist
+Norway;87,421;139,874; 1.60;Dentist
+Italy;86,697;91,899; 1.06;Dentist
+Greece;75,139;65,371; 0.87;Dentist
+South Korea;72,96;83,904; 1.15;Dentist
+China;72,877;45,184; 0.62;Dentist
+France;72,801;82,993; 1.14;Dentist
+South Africa;72,394;48,504; 0.67;Dentist
+Ireland;66,003;77,223; 1.17;Dentist
+Thailand;63,849;48,525; 0.76;Dentist
+Canada;61,322;63,775; 1.04;Dentist
+UK;50,409;50,409; 1.00;Dentist
+Australia;47,112;52,765; 1.12;Dentist
+Germany;43,746;44,621; 1.02;Dentist
+Poland;43,293;25,976; 0.60;Dentist
+Japan;42,323;55,443; 1.31;Dentist
+New Zealand;40,678;45,559; 1.12;Dentist
+Canada;196,363;204,217; 1.04;Doctor
+USA;163,67;178,4; 1.09;Doctor
+Saudi Arabia;132,592;99,444; 0.75;Doctor
+Australia;120,008;134,409; 1.12;Doctor
+Switzerland;112,532;211,56; 1.88;Doctor
+Japan;106,969;140,13; 1.31;Doctor
+Belgium;102,795;115,13; 1.12;Doctor
+Germany;102,339;104,386; 1.02;Doctor
+Netherlands;99,761;114,725; 1.15;Doctor
+Portugal;94,435;73,659; 0.78;Doctor
+Brazil;93,722;60,919; 0.65;Doctor
+Russia;92,619;54,645;0.59;Doctor
+Norway;92,381;147,809; 1.60;Doctor
+Italy;92,205;97,737; 1.06;Doctor
+Spain;91,382;76,761; 0.84;Doctor
+UK;90;90; 1.00;Doctor
+China;89,706;55,618; 0.62;Doctor
+Greece;81,391;70,81; 0.87;Doctor
+France;78,586;89,588; 1.14;Doctor
+New Zealand;78,518;87,94; 1.12;Doctor
+South Korea;76,959;88,503; 1.15;Doctor
+South Africa;70,109;46,973; 0.67;Doctor
+Ireland;63,947;74,818; 1.17;Doctor
+Thailand;56,286;42,777; 0.76;Doctor
+Poland;31,592;18,955; 0.60;Doctor
+Saudi Arabia;60,533;45,4; 0.75;Driving Instructors
+China;44,747;27,743; 0.62;Driving Instructors
+Switzerland;34,139;64,182; 1.88;Driving Instructors
+USA;33,551;36,571; 1.09;Driving Instructors
+Germany;32,81;33,466; 1.02;Driving Instructors
+Japan;32,586;42,688; 1.31;Driving Instructors
+Australia;31,466;35,242; 1.12;Driving Instructors
+France;31,244;35,618; 1.14;Driving Instructors
+Thailand;30,161;22,922; 0.76;Driving Instructors
+Spain;29,893;25,11; 0.84;Driving Instructors
+Brazil;29,557;19,212; 0.65;Driving Instructors
+Belgium;28,979;32,456; 1.12;Driving Instructors
+Netherlands;27,48;31,602; 1.14;Driving Instructors
+Italy;26,741;28,345; 1.06;Driving Instructors
+Russia;25,598;15,103; 0.59;Driving Instructors
+UK;25,532;25,532; 1.00;Driving Instructors
+Portugal;25,369;19,788; 0.78;Driving Instructors
+Norway;24,726;39,562; 1.60;Driving Instructors
+Poland;23,785;14,271; 0.60;Driving Instructors
+Greece;23,432;20,386; 0.87;Driving Instructors
+Ireland;23,034;26,95; 1.17;Driving Instructors
+South Korea;22,073;25,384; 1.15;Driving Instructors
+Canada;21,721;22,59; 1.04;Driving Instructors
+South Africa;21,536;14,429; 0.67;Driving Instructors
+New Zealand;20,639;23,116; 1.12;Driving Instructors
+Saudi Arabia;94,889;71,167; 0.75;Engineer
+China;57,337;35,549; 0.62;Engineer
+USA;51,264;55,878; 1.09;Engineer
+Switzerland;43,196;81,209; 1.88;Engineer
+France;42,435;48,376; 1.14;Engineer
+Germany;42,359;43,206; 1.02;Engineer
+Japan;41,061;53,79; 1.31;Engineer
+Spain;37,844;31,789; 0.84;Engineer
+Canada;37,538;39,04; 1.04;Engineer
+Brazil;35,975;23,384; 0.65;Engineer
+Thailand;35,975;27,341; 0.76;Engineer
+Italy;35,057;37,16; 1.06;Engineer
+Belgium;34,846;39,028; 1.12;Engineer
+Australia;34,626;38,781; 1.12;Engineer
+Russia;33,324;19,661; 0.59;Engineer
+Norway;32,938;52,7; 1.60;Engineer
+Poland;31,982;19,189; 0.60;Engineer
+Portugal;31,695;24,722; 0.78;Engineer
+Netherlands;30,979;35,626; 1.15;Engineer
+UK;30,867;30,867; 1.00;Engineer
+South Africa;30,596;20,499; 0.67;Engineer
+New Zealand;29,137;32,633; 1.12;Engineer
+Greece;28,71;24,978; 0.87;Engineer
+South Korea;28,153;32,376; 1.15;Engineer
+Ireland;26,642;31,171; 1.17;Engineer
+Saudi Arabia;62,931;47,198; 0.75;Estate Agent
+China;55,481;34,398; 0.62;Estate Agent
+Brazil;44,482;28,913; 0.65;Estate Agent
+Russia;43,959;25,936; 0.59;Estate Agent
+Japan;41,808;54,768; 1.31;Estate Agent
+Switzerland;41,797;78,579; 1.88;Estate Agent
+France;40,31;45,953; 1.14;Estate Agent
+Germany;39,324;40,11; 1.02;Estate Agent
+Spain;37,996;31,917; 0.84;Estate Agent
+South Korea;37,666;43,316; 1.15;Estate Agent
+Thailand;36,614;27,827; 0.76;Estate Agent
+Belgium;35,454;39,709; 1.12;Estate Agent
+USA;35,273;38,448; 1.09;Estate Agent
+Canada;34,151;35,517; 1.04;Estate Agent
+South Africa;33,275;22,294; 0.67;Estate Agent
+Portugal;32,729;25,529; 0.78;Estate Agent
+Italy;31,94;33,856; 1.06;Estate Agent
+Norway;31,4;50,24; 1.60;Estate Agent
+Poland;30,162;18,097; 0.60;Estate Agent
+Greece;29,631;25,779; 0.87;Estate Agent
+Netherlands;26,044;29,951; 1.15;Estate Agent
+Australia;22,52;25,222; 1.12;Estate Agent
+Ireland;22,167;25,935; 1.17;Estate Agent
+UK;19,843;19,843; 1.00;Estate Agent
+New Zealand;18,845;21,106; 1.12;Estate Agent
+Saudi Arabia;37,364;28,023; 0.75;Florists
+Switzerland;32,31;60,743; 1.88;Florists
+Germany;30,749;31,364; 1.02;Florists
+France;28,378;32,351; 1.14;Florists
+Netherlands;28,161;32,385; 1.15;Florists
+Brazil;27,974;18,183; 0.65;Florists
+USA;27,89;30,4; 1.09;Florists
+Spain;27,482;23,085; 0.84;Florists
+Thailand;27,179;20,656; 0.76;Florists
+Belgium;27,163;30,423; 1.12;Florists
+Japan;26,756;35,051; 1.31;Florists
+Russia;24,481;14,444; 0.59;Florists
+Poland;24,153;14,492; 0.60;Florists
+Italy;24,061;25,505; 1.06;Florists
+Australia;23,087;25,857; 1.12;Florists
+Portugal;23,042;17,973; 0.78;Florists
+Norway;22,931;36,69; 1.60;Florists
+Ireland;22,926;26,823; 1.17;Florists
+New Zealand;22,434;25,126; 1.12;Florists
+Greece;21,309;18,539; 0.87;Florists
+South Korea;20,45;23,518; 1.15;Florists
+South Africa;20,175;13,517; 0.67;Florists
+UK;19,293;19,293; 1.00;Florists
+China;18,534;11,491; 0.62;Florists
+Canada;17,427;18,124; 1.04;Florists
+China;44,995;27,897; 0.62;Graphic Designers
+Saudi Arabia;35,832;26,874; 0.75;Graphic Designers
+Switzerland;33,867;63,67; 1.88;Graphic Designers
+Japan;33,533;43,928; 1.31;Graphic Designers
+USA;32,517;35,443; 1.09;Graphic Designers
+Australia;31,692;35,495; 1.12;Graphic Designers
+France;28,01;31,931; 1.14;Graphic Designers
+Thailand;27,209;20,679; 0.76;Graphic Designers
+Brazil;27,072;17,597; 0.65;Graphic Designers
+Germany;26,738;27,273; 1.02;Graphic Designers
+Russia;26,688;15,746; 0.59;Graphic Designers
+Spain;25,113;21,095; 0.84;Graphic Designers
+Belgium;25,03;28,034; 1.12;Graphic Designers
+Italy;24,581;26,056; 1.06;Graphic Designers
+Norway;24,33;38,928; 1.60;Graphic Designers
+Canada;24,328;25,301; 1.04;Graphic Designers
+Netherlands;23,403;26,913; 1.15;Graphic Designers
+New Zealand;22,801;25,537; 1.12;Graphic Designers
+Portugal;22,742;17,739; 0.78;Graphic Designers
+Poland;22,52;13,512; 0.60;Graphic Designers
+UK;22,438;22,438; 1.00;Graphic Designers
+Greece;22,2;19,314; 0.87;Graphic Designers
+Ireland;21,849;25,563; 1.17;Graphic Designers
+South Korea;21,547;24,779; 1.15;Graphic Designers
+South Africa;20,128;13,486; 0.67;Graphic Designers
+Saudi Arabia;53,323;39,992; 0.75;Hairdressers
+China;47,897;29,696; 0.62;Hairdressers
+Thailand;42,162;32,043; 0.76;Hairdressers
+France;37,45;42,693; 1.14;Hairdressers
+Switzerland;35,601;66,93; 1.88;Hairdressers
+Japan;33,387;43,737; 1.31;Hairdressers
+Brazil;30,243;19,658; 0.65;Hairdressers
+Russia;29,253;17,259; 0.59;Hairdressers
+Spain;29,001;24,361; 0.84;Hairdressers
+Belgium;28,16;31,539; 1.12;Hairdressers
+Italy;28,035;29,717; 1.06;Hairdressers
+Norway;26,521;42,434; 1.60;Hairdressers
+Portugal;26,351;20,554; 0.78;Hairdressers
+Poland;26,287;15,772; 0.60;Hairdressers
+Canada;24,849;25,843; 0.78;Hairdressers
+Greece;24,108;20,974; 0.87;Hairdressers
+Australia;24,077;26,966; 1.12;Hairdressers
+South Africa;23,59;15,805; 0.67;Hairdressers
+USA;22,182;24,178; 1.09;Hairdressers
+South Korea;22,015;25,317; 1.15;Hairdressers
+New Zealand;20,19;22,613; 1.12;Hairdressers
+Germany;18,92;19,298; 1.02;Hairdressers
+UK;17,27;17,27; 1.00;Hairdressers
+Ireland;15,786;18,47; 1.17;Hairdressers
+Netherlands;15,256;17,544; 1.15;Hairdressers
+Saudi Arabia;58,332;43,749; 0.75;HR Consultants
+China;54,24;33,629; 0.62;HR Consultants
+Switzerland;49,507;93,074; 1.88;HR Consultants
+France;48,734;55,557; 1.14;HR Consultants
+Russia;41,588;24,537; 0.59;HR Consultants
+Spain;41,374;34,754; 0.84;HR Consultants
+Brazil;41,232;26,801; 0.65;HR Consultants
+Thailand;41,232;31,336; 0.76;HR Consultants
+USA;39,21;42,739; 1.09;HR Consultants
+Belgium;39,162;43,861; 1.12;HR Consultants
+Canada;39,11;40,674; 1.04;HR Consultants
+Germany;38,459;39,228; 1.02;HR Consultants
+Australia;36,777;41,19; 1.12;HR Consultants
+New Zealand;34,381;38,507; 1.12;HR Consultants
+Netherlands;33,51;38,537; 1.15;HR Consultants
+Italy;32,901;34,875; 1.06;HR Consultants
+Norway;31,71;50,736; 1.60;HR Consultants
+South Korea;31,127;35,796; 1.15;HR Consultants
+South Africa;30,843;20,665; 0.67;HR Consultants
+Portugal;30,277;23,616; 0.78;HR Consultants
+Greece;30,174;26,251; 0.87;HR Consultants
+UK;28,886;28,886; 1.00;HR Consultants
+Japan;28,092;36,8; 1.31;HR Consultants
+Poland;27,78;16,668; 0.60;HR Consultants
+Ireland;25,809;30,196; 1.17;HR Consultants
+China;62,389;38,681; 0.62;IT Technicians
+USA;54,84;59,776; 1.09;IT Technicians
+UK;45,374;45,374; 1.00;IT Technicians
+France;45,329;51,675; 1.14;IT Technicians
+Saudi Arabia;41,596;31,197; 0.75;IT Technicians
+Switzerland;39,459;74,182; 1.88;IT Technicians
+Russia;38,685;22,824; 0.59;IT Technicians
+Belgium;37,917;42,467; 1.12;IT Technicians
+Germany;35,595;36,307; 1.02;IT Technicians
+Australia;34,019;38,101; 1.12;IT Technicians
+Japan;33,844;44,336; 1.31;IT Technicians
+Brazil;31,574;20,523; 0.65;IT Technicians
+Canada;31,101;32,345; 1.04;IT Technicians
+Thailand;30,963;23,532; 0.76;IT Technicians
+Spain;30,943;25,992; 0.84;IT Technicians
+Netherlands;30,921;35,559; 1.15;IT Technicians
+Italy;29,785;31,572; 1.06;IT Technicians
+South Korea;29,551;33,984; 1.15;IT Technicians
+Poland;27,742;16,645; 0.60;IT Technicians
+Ireland;27,192;31,815; 1.17;IT Technicians
+Norway;26,714;42,742; 1.60;IT Technicians
+Greece;24,123;20,987; 0.87;IT Technicians
+South Africa;23,837;15,971; 0.67;IT Technicians
+Portugal;23,078;18,001; 0.78;IT Technicians
+New Zealand;22,044;24,689; 1.12;IT Technicians
+Saudi Arabia;50,557;37,918; 0.75;Journalists
+Switzerland;50,459;94,862; 1.88;Journalists
+China;43,316;26,856; 0.62;Journalists
+France;42,813;48,807; 1.14;Journalists
+Thailand;41,605;31,62; 0.76;Journalists
+Spain;41,554;34,905; 0.84;Journalists
+Brazil;40,375;26,244; 0.65;Journalists
+Belgium;39,818;44,596; 1.12;Journalists
+Italy;38,344;40,645; 1.06;Journalists
+Russia;36,175;21,343; 0.59;Journalists
+Portugal;34,763;27,115; 0.78;Journalists
+Norway;34,161;54,657; 1.60;Journalists
+Poland;33,748;20,249; 0.60;Journalists
+South Africa;32,009;21,446; 0.67;Journalists
+Japan;31,018;40,634; 1.31;Journalists
+Greece;30,847;26,837; 0.87;Journalists
+USA;29,75;32,428; 1.09;Journalists
+Netherlands;29,031;33,386; 1.15;Journalists
+South Korea;28,057;32,266; 1.15;Journalists
+Australia;25,274;28,307; 1.12;Journalists
+Canada;24,328;25,301; 1.04;Journalists
+UK;23,888;23,888; 1.00;Journalists
+Germany;23,176;23,64; 1.02;Journalists
+New Zealand;22,446;25,139; 1.12;Journalists
+Ireland;20,838;24,381; 1.17;Journalists
+USA;53,982;58,84; 1.09;Nurses
+China;50,739;31,458; 0.62;Nurses
+Canada;43,837;45,59; 1.04;Nurses
+Saudi Arabia;42,561;31,921; 0.75;Nurses
+Switzerland;40,911;76,913; 1.88;Nurses
+Japan;37,554;49,196; 1.31;Nurses
+Thailand;33,279;25,292; 0.76;Nurses
+Brazil;31,968;20,779; 0.65;Nurses
+Belgium;31,723;35,53; 1.12;Nurses
+Russia;29,639;17,487; 0.59;Nurses
+Australia;29,523;33,066; 1.12;Nurses
+Italy;28,896;30,63; 1.06;Nurses
+Poland;27,76;16,656; 0.60;Nurses
+Spain;27,694;23,263; 0.84;Nurses
+Portugal;27,617;21,541; 0.78;Nurses
+Norway;27,368;43,789; 1.60;Nurses
+Greece;26,049;22,663; 0.87;Nurses
+South Africa;25,488;17,077; 0.67;Nurses
+New Zealand;25,269;28,301; 1.12;Nurses
+France;24,683;28,139; 1.14;Nurses
+UK;24,664;24,664; 1.00;Nurses
+Germany;24,548;25,039; 1.02;Nurses
+Netherlands;23,973;27,569; 1.15;Nurses
+Ireland;23,85;27,904; 1.17;Nurses
+South Korea;23,555;27,088; 1.15;Nurses
+China;66,011;40,927; 0.62;Personal Trainers
+Saudi Arabia;53,815;40,361; 0.75;Personal Trainers
+Japan;47,611;62,371; 1.31;Personal Trainers
+Brazil;42,749;27,787; 0.65;Personal Trainers
+Thailand;41,536;31,567; 0.76;Personal Trainers
+Switzerland;37,411;70,332; 1.88;Personal Trainers
+France;36,195;41,262; 1.14;Personal Trainers
+Spain;32,685;27,455; 0.84;Personal Trainers
+South Africa;32,099;21,506; 0.67;Personal Trainers
+Russia;31,036;18,311; 0.59;Personal Trainers
+Portugal;29,39;22,924; 0.78;Personal Trainers
+Netherlands;29,38;33,787; 1.15;Personal Trainers
+Belgium;29,284;32,798; 1.12;Personal Trainers
+USA;29,004;31,614; 1.09;Personal Trainers
+Italy;28,002;29,682; 1.06;Personal Trainers
+Norway;27,32;43,712; 1.60;Personal Trainers
+Poland;26,8;16,08; 0.60;Personal Trainers
+Canada;24,595;25,579; 1.04;Personal Trainers
+South Korea;24,583;28,27; 1.15;Personal Trainers
+Greece;24,318;21,157; 0.87;Personal Trainers
+Australia;23,754;26,604; 1.12;Personal Trainers
+New Zealand;21,312;23,869; 1.12;Personal Trainers
+UK;19,703;19,703; 1.00;Personal Trainers
+Ireland;19,119;22,369; 1.17;Personal Trainers
+Germany;17,2;17,544; 1.04;Personal Trainers
+USA;83,115;90,595; 1.09;Pharmacists
+China;70,187;43,516; 0.62;Pharmacists
+Saudi Arabia;61,62;46,215; 0.75;Pharmacists
+Switzerland;54,862;103,141; 1.88;Pharmacists
+Japan;53,435;70; 1.31;Pharmacists
+France;52,234;59,547; 1.14;Pharmacists
+Canada;51,615;53,68; 1.04;Pharmacists
+Brazil;47,5;30,875; 0.65;Pharmacists
+Spain;47,121;39,582; 0.84;Pharmacists
+Belgium;44,783;50,157; 1.12;Pharmacists
+Thailand;44,295;33,664; 0.76;Pharmacists
+Russia;43,975;25,945; 0.59;Pharmacists
+Italy;42,974;45,552; 1.06;Pharmacists
+Portugal;42,413;33,082; 0.78;Pharmacists
+Poland;41,412;24,847; 0.60;Pharmacists
+Norway;40,533;64,853; 1.60;Pharmacists
+Ireland;39,447;46,153; 1.17;Pharmacists
+South Africa;36,722;24,604; 0.67;Pharmacists
+Greece;35,446;30,838; 0.87;Pharmacists
+UK;35,239;35,239; 1.00;Pharmacists
+Australia;33,66;37,699; 1.12;Pharmacists
+South Korea;33,369;38,374; 1.15;Pharmacists
+Germany;31,901;32,539; 1.02;Pharmacists
+New Zealand;31,438;35,211; 1.12;Pharmacists
+Netherlands;30,511;35,088; 1.15;Pharmacists
+China;43,663;27,071; 0.62;Photographers
+Saudi Arabia;38,176;28,632; 0.75;Photographers
+France;35,461;40,425; 1.14;Photographers
+Switzerland;33,925;63,779; 1.88;Photographers
+Thailand;33,321;25,324; 0.76;Photographers
+USA;33,319;36,318; 1.09;Photographers
+Belgium;33,216;37,202; 1.12;Photographers
+Japan;33,056;43,304; 1.31;Photographers
+Spain;32,744;27,505; 0.84;Photographers
+Russia;30,117;17,769; 0.59;Photographers
+Italy;29,05;30,793; 1.06;Photographers
+Portugal;28,794;22,459; 0.78;Photographers
+Brazil;28,226;18,347; 0.65;Photographers
+Australia;26,355;29,518; 1.12;Photographers
+Netherlands;26,233;30,168; 1.15;Photographers
+South Africa;26,193;17,549; 0.67;Photographers
+Canada;25,266;26,277; 1.04;Photographers
+South Korea;25,155;28,928; 1.15;Photographers
+Poland;24,823;14,894; 0.60;Photographers
+Norway;24,464;39,142; 1.60;Photographers
+Ireland;22,492;26,316; 1.17;Photographers
+Germany;22,391;22,839; 1.02;Photographers
+UK;21,172;21,172; 1.00;Photographers
+Greece;21,091;18,349; 0.87;Photographers
+New Zealand;20,764;23,256; 1.12;Photographers
+Canada;36,984;38,463; 1.04;Plumbers
+China;35,094;21,758; 0.62;Plumbers
+Australia;30,292;33,927; 1.12;Plumbers
+Saudi Arabia;29,411;22,058; 0.75;Plumbers
+UK;29,136;29,136; 1.00;Plumbers
+Switzerland;28,551;53,675; 1.88;Plumbers
+New Zealand;26,26;29,411; 1.12;Plumbers
+USA;25,925;28,258; 1.09;Plumbers
+Germany;25,693;26,207; 1.02;Plumbers
+Japan;25,596;33,531; 1.31;Plumbers
+France;25,004;28,504; 1.14;Plumbers
+Ireland;24,887;29,118; 1.17;Plumbers
+Spain;23,149;19,445; 0.84;Plumbers
+Thailand;22,147;16,832; 0.76;Plumbers
+Russia;21,988;12,973; 0.59;Plumbers
+Belgium;21,812;24,429; 1.12;Plumbers
+Brazil;21,342;13,872; 0.65;Plumbers
+Italy;20,852;22,103; 1.06;Plumbers
+Norway;20,825;33,32; 1.60;Plumbers
+Portugal;20,303;15,836;0.78;Plumbers
+Poland;19,948;11,969; 0.60;Plumbers
+Netherlands;19,832;22,807; 1.15;Plumbers
+South Africa;18,255;12,231; 0.67;Plumbers
+Greece;17,648;15,354; 0.87;Plumbers
+South Korea;16,965;19,51; 1.15;Plumbers
+China;73,102;45,323; 0.62;Recruitment Consultants
+Saudi Arabia;62,863;47,147; 0.75;Recruitment Consultants
+Switzerland;56,129;105,522; 1.88;Recruitment Consultants
+France;49,054;55,921; 1.14;Recruitment Consultants
+Thailand;47,016;35,732; 0.76;Recruitment Consultants
+Brazil;46,746;30,385; 0.65;Recruitment Consultants
+Russia;46,646;27,521; 0.59;Recruitment Consultants
+Belgium;44,813;50,19; 1.12;Recruitment Consultants
+Spain;44,608;37,471; 0.84;Recruitment Consultants
+Norway;41,032;65,651; 1.60;Recruitment Consultants
+Italy;40,823;43,272; 1.06;Recruitment Consultants
+Portugal;39,831;31,068; 0.78;Recruitment Consultants
+Canada;37,779;39,29; 1.04;Recruitment Consultants
+Greece;37,532;32,653; 0.87;Recruitment Consultants
+USA;36,296;39,563; 1.09;Recruitment Consultants
+South Africa;34,645;23,212; 0.67;Recruitment Consultants
+South Korea;33,97;39,066; 1.15;Recruitment Consultants
+Germany;33,513;34,183; 1.02;Recruitment Consultants
+Poland;31,39;18,834; 0.60;Recruitment Consultants
+Japan;28,91;37,872; 1.31;Recruitment Consultants
+Australia;27,219;30,485; 1.12;Recruitment Consultants
+UK;25,523;25,523; 1.00;Recruitment Consultants
+New Zealand;25,009;28,01; 1.12;Recruitment Consultants
+Netherlands;24,433;28,098; 1.15;Recruitment Consultants
+Ireland;23,238;27,188; 1.17;Recruitment Consultants
+Saudi Arabia;59,291;44,468; 0.75;Retail Managers
+China;58,09;36,016; 0.62;Retail Managers
+Japan;53,052;69,498; 1.31;Retail Managers
+Switzerland;50,822;95,545; 1.88;Retail Managers
+France;48,661;55,474; 1.14;Retail Managers
+Spain;45,237;37,999; 0.84;Retail Managers
+Thailand;44,322;33,685; 0.76;Retail Managers
+Netherlands;43,777;50,344; 1.15;Retail Managers
+Brazil;43,268;28,124; 0.65;Retail Managers
+Belgium;43,095;48,266; 1.12;Retail Managers
+Italy;40,384;42,807; 1.06;Retail Managers
+Russia;40,256;23,751; 0.59;Retail Managers
+Portugal;39,51;30,818; 0.78;Retail Managers
+Norway;38,958;62,332; 1.60;Retail Managers
+Germany;36,55;37,281; 1.02;Retail Managers
+South Korea;34,5;39,675; 1.15;Retail Managers
+South Africa;34,318;22,993; 0.67;Retail Managers
+USA;33,93;36,984; 1.09;Retail Managers
+Poland;30,378;18,227; 0.60;Retail Managers
+Greece;29,226;25,427; 0.87;Retail Managers
+Canada;25,721;26,75; 1.04;Retail Managers
+Australia;24,703;27,667; 1.12;Retail Managers
+UK;23,996;23,996; 1.00;Retail Managers
+Ireland;23,394;27,371; 1.17;Retail Managers
+New Zealand;22,566;25,274; 1.12;Retail Managers
+China;38,965;24,158; 0.62;Sales Assistants
+Saudi Arabia;32,507;24,38; 0.75;Sales Assistants
+Switzerland;28,961;54,447; 1.88;Sales Assistants
+USA;28,828;31,422; 1.09;Sales Assistants
+Japan;27,16;35,58; 1.31;Sales Assistants
+Germany;26,993;27,533; 1.02;Sales Assistants
+France;26,4;30,096; 1.14;Sales Assistants
+Thailand;25,479;19,364; 0.76;Sales Assistants
+Brazil;24,603;15,992; 0.65;Sales Assistants
+Russia;23,797;14,04; 0.59;Sales Assistants
+Spain;23,593;19,818; 0.84;Sales Assistants
+Belgium;22,908;25,657; 1.12;Sales Assistants
+Italy;22,807;24,175; 1.06;Sales Assistants
+Australia;21,774;24,387; 1.12;Sales Assistants
+Norway;21,575;34,52; 1.60;Sales Assistants
+Portugal;21,436;16,72; 0.78;Sales Assistants
+Poland;21,385;12,831; 0.60;Sales Assistants
+Netherlands;20,004;23,005; 1.15;Sales Assistants
+Greece;19,611;17,062; 0.87;Sales Assistants
+South Africa;19,191;12,858; 0.67;Sales Assistants
+UK;19,154;19,154; 1.00;Sales Assistants
+Ireland;17,968;21,023; 1.17;Sales Assistants
+South Korea;17,909;20,595; 1.15;Sales Assistants
+New Zealand;17,319;19,397; 1.12;Sales Assistants
+Canada;17,075;17,758; 1.04;Sales Assistants
+Saudi Arabia;80,288;60,216; 0.75;Solicitors 
+Japan;71,004;93,015; 1.31;Solicitors
+Switzerland;70,099;131,787; 1.88;Solicitors
+Germany;66,054;67,375; 1.02;Solicitors
+France;65,448;74,611; 1.14;Solicitors
+Thailand;61,932;47,068; 0.76;Solicitors
+Netherlands;59,93;68,919; 1.15;Solicitors
+China;59,842;37,102; 0.62;Solicitors
+Belgium;58,363;65,366; 1.12;Solicitors
+Spain;57,869;48,61; 0.84;Solicitors
+Italy;54,908;58,203; 1.06;Solicitors
+Portugal;53,142;41,451; 0.78;Solicitors
+Poland;50,875;30,525; 0.60;Solicitors
+Greece;49,056;42,679; 0.87;Solicitors
+Norway;48,733;77,972; 1.60;Solicitors
+South Korea;46,22;53,153; 1.15;Solicitors
+Brazil;44,822;29,134; 0.65;Solicitors
+Russia;43,912;25,908; 0.59;Solicitors
+Canada;43,443;45,181; 1.04;Solicitors
+South Africa;43,322;29,026; 0.67;Solicitors
+USA;39,996;43,596; 1.09;Solicitors
+UK;36,173;36,173; 1.00;Solicitors
+Ireland;35,973;42,088; 1.17;Solicitors
+Australia;30,701;34,385; 1.12;Solicitors
+New Zealand;26,873;30,098; 1.12;Solicitors
+China;35,452;21,98; 0.62;Taxi Drivers
+USA;27,272;29,726; 1.09;Taxi Drivers
+Switzerland;27,012;50,782; 1.88;Taxi Drivers
+New Zealand;26,921;30,151; 1.12;Taxi Drivers
+Saudi Arabia;25,477;19,108; 0.75;Taxi Drivers
+France;24,519;27,952; 1.14;Taxi Drivers
+Australia;24,002;26,882; 1.12;Taxi Drivers
+Germany;23,785;24,261; 1.02;Taxi Drivers
+Ireland;22,883;26,773; 1.17;Taxi Drivers
+Brazil;22,474;14,608; 0.65;Taxi Drivers
+Netherlands;22,32;25,668; 1.15;Taxi Drivers
+Thailand;21,937;16,672; 0.76;Taxi Drivers
+Canada;21,619;22,484; 1.04;Taxi Drivers
+Belgium;21,458;24,033; 1.12;Taxi Drivers
+Spain;20,958;17,605; 0.84;Taxi Drivers
+Italy;20,833;22,083; 1.06;Taxi Drivers
+Russia;20,414;12,044; 0.59;Taxi Drivers
+Portugal;19,909;15,529; 0.78;Taxi Drivers
+UK;19,136;19,136; 1.00;Taxi Drivers
+Norway;18,716;29,946; 1.60;Taxi Drivers
+Poland;18,622;11,173; 0.60;Taxi Drivers
+Greece;17,145;14,916; 0.87;Taxi Drivers
+Japan;17,109;22,413; 1.31;Taxi Drivers
+South Africa;16,585;11,112; 0.67;Taxi Drivers
+South Korea;15,975;18,371; 1.15;Taxi Drivers
+Saudi Arabia;59,588;44,691; 0.75;Teachers
+China;45,363;28,125; 0.62;Teachers
+USA;44,037;48; 1.09;Teachers
+Brazil;42,12;27,378; 0.65;Teachers
+Thailand;42,12;32,011; 0.76;Teachers
+Netherlands;39,65;45,597; 1.15;Teachers
+Canada;39,388;40,964; 1.04;Teachers
+Switzerland;37,182;69,902; 1.88;Teachers
+Japan;36,576;47,915; 1.31;Teachers
+Germany;35,385;36,093; 1.02;Teachers
+France;33,811;38,544; 1.14;Teachers
+Australia;33,078;37,047; 1.12;Teachers
+South Korea;31,797;36,567; 1.15;Teachers
+South Africa;31,507;21,11; 0.67;Teachers
+Spain;30,346;25,491; 0.87;Teachers
+UK;29,53;29,53; 1.00;Teachers
+Belgium;28,516;31,938; 1.12;Teachers
+Russia;28,171;16,621; 0.59;Teachers
+New Zealand;28,029;31,392; 1.12;Teachers
+Italy;27,942;29,619; 1.06;Teachers
+Poland;27,797;16,678; 0.60;Teachers
+Portugal;27,453;21,413; 0.78;Teachers
+Norway;26,389;42,223; 1.60;Teachers
+Ireland;25,041;29,298; 1.17;Teachers
+Greece;24,122;20,986; 0.87;Teachers
+China;39,285;24,357; 0.62;Truck Drivers
+Canada;36,997;38,477; 1.04;Truck Drivers
+USA;35,98;39,218; 1.09;Truck Drivers
+Switzerland;32,992;62,025; 1.88;Truck Drivers
+Japan;30,945;40,538; 1.31;Truck Drivers
+France;29,715;33,875; 1.14;Truck Drivers
+Germany;29,47;30,059; 1.02;Truck Drivers
+Saudi Arabia;29,259;21,944; 0.75;Truck Drivers
+Australia;28,706;32,151; 1.12;Truck Drivers
+Thailand;27,203;20,674; 0.76;Truck Drivers
+UK;26,768;26,768; 1.00;Truck Drivers
+Brazil;25,363;16,486; 0.65;Truck Drivers
+Netherlands;25,335;29,135; 1.15;Truck Drivers
+Russia;25,114;14,817; 0.59;Truck Drivers
+Spain;25,094;21,079; 0.84;Truck Drivers
+Italy;25,071;26,575; 1.06;Truck Drivers
+Belgium;24,517;27,459; 1.12;Truck Drivers
+Ireland;24,176;28,286; 1.17;Truck Drivers
+Portugal;24,127;18,819; 0.78;Truck Drivers
+New Zealand;23,655;26,494; 1.12;Truck Drivers
+Poland;22,518;13,511; 0.60;Truck Drivers
+Norway;21,884;35,014; 1.60;Truck Drivers
+Greece;21,423;18,638; 0.87;Truck Drivers
+South Korea;19,783;22,751; 1.15;Truck Drivers
+South Africa;19,731;13,22; 0.67;Truck Drivers
+China;55,352;34,318; 0.62;Web Developers
+Saudi Arabia;45,889;34,417; 0.75;Web Developers
+USA;43,382;47,286; 1.09;Web Developers
+Switzerland;42,49;79,882; 1.88;Web Developers
+France;39,814;45,388; 1.14;Web Developers
+Germany;35,17;35,873; 1.02;Web Developers
+Belgium;34,368;38,492; 1.12;Web Developers
+Thailand;34,137;25,944; 0.76;Web Developers
+Spain;34,126;28,666; 0.84;Web Developers
+Brazil;33,966;22,078; 0.65;Web Developers
+Japan;33,844;44,336; 1.31;Web Developers
+Italy;33,108;35,095; 1.06;Web Developers
+Russia;32,824;19,366; 0.59;Web Developers
+Portugal;32,327;25,215; 0.78;Web Developers
+UK;32,286;32,286; 1.00;Web Developers
+Norway;31,748;50,797; 1.60;Web Developers
+Canada;30,225;31,434; 1.04;Web Developers
+Australia;29,335;32,855; 1.12;Web Developers
+Poland;29,09;17,454; 0.60;Web Developers
+South Africa;27,64;18,519; 0.67;Web Developers
+Greece;27,339;23,785; 0.87;Web Developers
+Netherlands;27,277;31,369; 1.15;Web Developers
+South Korea;26,497;30,471; 1.15;Web Developers
+Ireland;25,142;29,416; 1.17;Web Developers
+New Zealand;24,371;27,295; 1.12;Web Developers
+China;33,913;21,026; 0.62;Window Cleaners
+Saudi Arabia;30,104;22,578; 0.75;Window Cleaners
+USA;28,539;31,107; 1.09;Window Cleaners
+Australia;28,082;31,452; 1.12;Window Cleaners
+Canada;26,848;27,922; 1.04;Window Cleaners
+France;24,639;28,089; 1.14;Window Cleaners
+New Zealand;24,229;27,136; 1.12;Window Cleaners
+UK;21,364;21,364; 1.00;Window Cleaners
+Thailand;21,279;16,172; 0.76;Window Cleaners
+Brazil;21,278;13,831; 0.65;Window Cleaners
+Spain;20,748;17,428; 0.84;Window Cleaners
+Switzerland;20,732;38,976; 1.88;Window Cleaners
+Belgium;20,611;23,084; 1.12;Window Cleaners
+Portugal;20,006;15,605; 0.78;Window Cleaners
+Poland;19,383;11,63; 0.60;Window Cleaners
+Italy;19,222;20,375; 1.06;Window Cleaners
+Germany;18,633;19,006; 1.04;Window Cleaners
+South Africa;18,522;12,41; 0.67;Window Cleaners
+Japan;17,591;23,044; 1.31;Window Cleaners
+Ireland;17,397;20,354; 1.17;Window Cleaners
+Netherlands;16,125;18,544; 1.15;Window Cleaners
+South Korea;16,064;18,474; 1.15;Window Cleaners
+Russia;15,353;9,058; 0.59;Window Cleaners
+Norway;14,95;23,92; 1.60;Window Cleaners
+Greece;12,889;11,213; 0.87;Window Cleaners
